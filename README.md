@@ -1,5 +1,5 @@
 # LightGreenTheme
-Green Light theme for vs code. Feel free to CONTRIBUTE 👍
+Green Light theme for vs code. 
 
 # How to use
 * refer to image2.png and follow the following steps:
@@ -18,5 +18,4 @@ See the "foreground" element name below "textmate scopes"
 now use "ctrl+shift+f" and enter that specific element name.
 There you can make modifications.
 
-# This is my first time creating it so it's not even "fine" and needs MUCH MUCH changes and improvement. 
-# So Feel Free to CONTRIBUTE 
+# This is my first time creating it so it's not even "fine" and needs MUCH MUCH changes and improvements. 
